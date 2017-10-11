@@ -4,4 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [UNRELEASED] - [0.0.0] - 2017-x-x
+## [0.0.2] - 2017-10-11
+### Edited
+- README.md updated with current project title and very brief summary.
+
+## [0.0.1] - 2017-10-11
+- Initial commit, all file at once.
